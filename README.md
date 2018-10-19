@@ -1,2 +1,3 @@
 # bloom-filter
-Bloom filter implementation in c++
+Implementation of space efficient probabilistic data structure, Bloom filter.
+Language: C++
